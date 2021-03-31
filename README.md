@@ -1,4 +1,4 @@
-**[Website](https://abbieschenk.com)**
+**[abbieschenk.com](https://abbieschenk.com)**
 
 I’m Abbie Schenk, a **software developer** and **photographer**. I'm interested in conveying information and stories in interdisciplinary ways, combining interactive web apps, digital mapping, photography, video, writing, and other methods.
 
